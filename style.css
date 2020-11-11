@@ -1,74 +1,7 @@
-/* body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
-  line-height: 1;
-}
-
-textarea{
-  background: transparent;
-  border: none;
-  resize: none;
-  color: #000000;
-  border-left: 1px solid black;
-  border-right: 1px solid black;
-  padding: 10px;
-}
-
 .jumbotron {
   text-align: center;
   background-color: EOFFFF;
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
-}
-
-.description{
-  white-space: pre-wrap;
-}
-
-.timeblock{
-  text-align: center;
-  border: 5px solid black;
-}
-
-.row {
-  white-space: pre-wrap;
-  height: 80px;
-}
-
-.hour {
-  color: #000000;
-}
-
-.past {
-  background-color: lightblue;
-  color: black;
-}
-
-.present {
-  background-color: yellow;
-  color: white;
-}
-
-.future {
-  background-color: #77dd77;
-  color: white;
-}
-
-.saveBtn {
-  padding: 0px;
-  margin: 0px;
-  color: black;
-}
-
-.saveBtn i:hover {
-  font-size: 20px;
-  transition: all .3s ease-in-out;
-} */
-
-.container {
-  float: center;
-  width: 100%;
-  margin: 0px;
-  padding: 0px;
 }
